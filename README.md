@@ -3,7 +3,7 @@
 For this, I installed GO on my computer before I started.
 I used Git to clone the repository from https://github.com/suraiya-jabeen/Week4_go_assignment.git.
 Then I launched the Visual Studio code terminal, and then I used the cd command to move to the directory folder.
-I run the go-run main. go command to proceed.
+I run the go run main. go command to proceed.
 
 what is needed!
 
