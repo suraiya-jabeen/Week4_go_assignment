@@ -10,6 +10,5 @@ what is needed!
 In case you haven't done so, install Go on your computer.
 A new directory called Week4_go_assignment should be created.
 Launch Command Prompt and use cd to get to the Week4_go_assignment folder.
-Use the command go mod init https://github.com/suraiya-jabeen/Week4_go_assignment/go to initialize a Go module.
 Create a Go file called "main.go" that has the welcome you want.
 Run the go-run main.go Command to see how your greeting is received. 
